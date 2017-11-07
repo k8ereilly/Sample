@@ -7059,6 +7059,7 @@ label.panel-block {
 
 .quire-cover {
   background-color: #209cee;
+  background-image: url("http://placekitten.com/1400/800");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover; }

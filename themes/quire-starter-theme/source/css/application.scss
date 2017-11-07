@@ -31,7 +31,7 @@ $navbar-background-color: $blue;
 // importing it.
 
 $quire-cover-background-color: $info;
-// $quire-cover-background-image: url("http://placekitten.com/1400/800");
+$quire-cover-background-image: url("http://placekitten.com/1400/800");
 
 $quire-menu-background-color: $dark;
 $quire-menu-width: 300px;
@@ -47,6 +47,3 @@ $quire-page-paragraph-style: indent;
 @import "print";
 
 // Other custom styles (move elsewhere later)
-
-
-

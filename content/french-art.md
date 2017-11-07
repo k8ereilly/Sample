@@ -16,20 +16,20 @@ additional_references:
 
 French art consists of the visual and plastic arts (including architecture,
 woodwork, textiles, and ceramics) originating from the geographical area of
-France. Modern France was the main centre for the European art of the Upper
+France. Modern France was the main center for the European art of the Upper
 Paleolithic, then left many megalithic monuments, and in the Iron Age many of
 the most impressive finds of early Celtic art. The Gallo-Roman period left a
 distinctive provincial style of sculpture, and the region around the modern
 Franco-German border led the empire in the mass production of finely
-decoratedAncient Roman pottery, which was exported to Italy and elsewhere on a
-lagre scale. With Merovingian art the story of French styles as a distinct and
+decorated Ancient Roman pottery, which was exported to Italy and elsewhere on a
+large scale. With Merovingian art the story of French styles as a distinct and
 influential element in the wider development of the art of Christian Europe
 begins. ({{< q-cite "Faure 1909" "54" >}})
 
 France can fairly be said to have been a leader in the development of Romanesque
 art and Gothic art, before the Italian Renaissance led to Italy replacing France
 as the main source of stylistic developments until the age of Louis XIV, when
-France largely regained this role, holding it until the mid-20th century.
+France largely regained this role, holding it until the mid-twentieth century.
 
 ## Contents
 
@@ -78,6 +78,8 @@ classicism working in Rome was Claude Gellée, known as Le Lorrain, who defined
 the form of classical landscape.
 
 {{< q-figure id="1.4" >}}
+
+{{< q-figure id="1.1" >}}
 
 Many young French painters of the beginning of the century went to Rome to train
 themselves and soon assimilated Caravaggio's influence like Valentin de Boulogne
